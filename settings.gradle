@@ -1,0 +1,2 @@
+rootProject.name='CarBrightness'
+include ':app'
